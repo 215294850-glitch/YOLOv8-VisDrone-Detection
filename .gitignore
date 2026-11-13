@@ -1,0 +1,20 @@
+
+# Dataset
+datasets/
+
+# Training outputs
+runs/
+backup/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.vscode/
+
+# Temporary files
+*.log
+*.tmp
+.DS_Store
